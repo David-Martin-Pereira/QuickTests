@@ -1,5 +1,0 @@
-c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTests\bin\Debug\QuickTests.exe
-c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTests\bin\Debug\QuickTests.pdb
-c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTests\obj\Debug\QuickTests.csprojResolveAssemblyReference.cache
-c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTests\obj\Debug\QuickTests.exe
-c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTests\obj\Debug\QuickTests.pdb
