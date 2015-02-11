@@ -1,0 +1,3 @@
+coche
+autobus
+gato

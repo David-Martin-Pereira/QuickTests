@@ -1,0 +1,10 @@
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\bin\Debug\QuickTestsForm.exe
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\bin\Debug\QuickTestsForm.pdb
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.csprojResolveAssemblyReference.cache
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.Form1.resources
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.Properties.Resources.resources
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.csproj.GenerateResource.Cache
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.exe
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.pdb
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\bin\Debug\nunit.framework.dll
+c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\bin\Debug\nunit.framework.xml
