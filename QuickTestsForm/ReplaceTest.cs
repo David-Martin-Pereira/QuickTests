@@ -19,11 +19,7 @@ namespace QuickTestsForm
 
             var contadorRegex = new Regex("whatever"+pattern);
 
-            //var textReplaced = textToReplace.Replace(Regex., "whatever" + "(2)");
-
             textToReplace = contadorRegex.Replace(textToReplace, "whatever(2)");
-
-            //Assert.IsTrue(contadorRegex.IsMatch(textToReplace));
 
             Assert.AreEqual("ajsdopfijsawhatever(2)ajsdopfijsa", textToReplace);
         }

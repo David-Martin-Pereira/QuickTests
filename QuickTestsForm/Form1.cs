@@ -29,11 +29,7 @@ namespace QuickTestsForm
         {
             if(pathFileText.Text!=null)
                 if (!Program.ValuesAreRepetead(File.ReadAllLines(pathFileText.Text).ToList()))
-                {
-                    //MessageBox.Show(@"No values repeated");
                     MessageBox.Show("--------------------\nNo values repeated\n--------------------", @"Result");
-                }
-
                 
         }
 
