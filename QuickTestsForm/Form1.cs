@@ -33,8 +33,6 @@ namespace QuickTestsForm
                     //MessageBox.Show(@"No values repeated");
                     MessageBox.Show("--------------------\nNo values repeated\n--------------------", @"Result");
                 }
-
-                
         }
 
         private void label1_Click(object sender, EventArgs e)
