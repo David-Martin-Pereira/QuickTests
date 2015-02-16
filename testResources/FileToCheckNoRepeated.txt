@@ -1,3 +1,6 @@
 coche
 autobus
 gato
+coche
+
+gato
