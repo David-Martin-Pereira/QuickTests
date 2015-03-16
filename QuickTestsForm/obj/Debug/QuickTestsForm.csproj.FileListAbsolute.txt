@@ -8,3 +8,13 @@ c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm
 c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.pdb
 c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\bin\Debug\nunit.framework.dll
 c:\users\dmartin\documents\visual studio 2013\Projects\QuickTests\QuickTestsForm\bin\Debug\nunit.framework.xml
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.exe
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.pdb
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\bin\Debug\QuickTestsForm.exe
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\bin\Debug\QuickTestsForm.pdb
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\bin\Debug\nunit.framework.dll
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\bin\Debug\nunit.framework.xml
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.csprojResolveAssemblyReference.cache
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.Form1.resources
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.Properties.Resources.resources
+D:\COMPARTIDO\Trabajo\Programacion-Proyectos personales\c#\QuickTests\QuickTestsForm\obj\Debug\QuickTestsForm.csproj.GenerateResource.Cache

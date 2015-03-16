@@ -87,7 +87,7 @@ namespace QuickTestsForm
                 backgroundWorker1.ReportProgress(i + 1);
             }
 
-            if(!resultString.Equals("") && !backgroundWorker1.IsBusy)
+            if(!resultString.Equals(""))
                 MessageBox.Show("Values repeated\n---------\n"+resultString,@"Results");
 
             return result;
